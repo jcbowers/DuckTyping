@@ -1,0 +1,7 @@
+c:\users\jason\documents\visual studio 2012\Projects\JasonBowers.Extensions\JasonBowers.Extensions\bin\Debug\JasonBowers.Extensions.dll
+c:\users\jason\documents\visual studio 2012\Projects\JasonBowers.Extensions\JasonBowers.Extensions\bin\Debug\JasonBowers.Extensions.pdb
+c:\users\jason\documents\visual studio 2012\Projects\JasonBowers.Extensions\JasonBowers.Extensions\bin\Debug\Moq.dll
+c:\users\jason\documents\visual studio 2012\Projects\JasonBowers.Extensions\JasonBowers.Extensions\bin\Debug\Moq.xml
+c:\users\jason\documents\visual studio 2012\Projects\JasonBowers.Extensions\JasonBowers.Extensions\obj\Debug\JasonBowers.Extensions.csprojResolveAssemblyReference.cache
+c:\users\jason\documents\visual studio 2012\Projects\JasonBowers.Extensions\JasonBowers.Extensions\obj\Debug\JasonBowers.Extensions.dll
+c:\users\jason\documents\visual studio 2012\Projects\JasonBowers.Extensions\JasonBowers.Extensions\obj\Debug\JasonBowers.Extensions.pdb
